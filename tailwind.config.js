@@ -4,6 +4,7 @@ module.exports = {
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./analytics/ratings/**/*.{js,ts,jsx,tsx}",
     "./analytics/reviews/**/*.{js,ts,jsx,tsx}",
+    "./analytics/common/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
