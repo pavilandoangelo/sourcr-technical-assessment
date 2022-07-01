@@ -14,7 +14,7 @@ function Reviews() {
               key={index}
               className={`font-mulish text-[15px] leading-[16px] text-primary-black mr-[24px] ${
                 selectedNav === nav
-                  ? "font-bold underline underline-offset-8 decoration-[#11283C4d]"
+                  ? "font-bold underline underline-offset-8 decoration-primary-black/30"
                   : "font-normal"
               }`}
             >
